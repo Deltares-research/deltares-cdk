@@ -1,2 +1,7 @@
-# deltares-cdk
-Cloud Development Kit
+# deltarescdk
+
+module for cdk constructs
+
+
+* Free software: MIT
+
