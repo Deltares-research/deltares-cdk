@@ -20,6 +20,7 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=("tests",)),
 
     install_requires=[
+        "aws-cdk.core==1.128.0",
         "aws-cdk.aws-s3==1.128.0",
         "aws-cdk.aws-ec2==1.128.0",
         "boto3==1.20.20"
